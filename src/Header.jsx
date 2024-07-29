@@ -1,7 +1,7 @@
 import React from "react"
 import mail from "./assets/Mail.svg"
 import linkedIn from "./assets/linkedin.svg"
-import radu from "./assets/radu.png"
+import radu from "./assets/radu.webp"
 
 export default function Header(){
     return(
